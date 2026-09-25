@@ -81,6 +81,8 @@ Graduado em **Engenharia da Computação** pela **Universidade Federal do Ceará
 | **🎓 UniMove** | Plataforma de integração, mobilidade acadêmica e facilitação de fluxos internos para estudantes da UFC. | React, JavaScript, APIs REST, UI/UX | [Ver no GitHub](https://github.com/Ruanggd123) |
 | **🚗 Placa Detect (ALPR)** | Reconhecimento de placas veiculares utilizando IA (YOLO) e Visão Computacional conteinerizado em Docker. | Python, YOLO, OpenCV, Docker | [Ver no GitHub](https://github.com/Ruanggd123) |
 | **🎮 Echo World** | Jogo 3D estilo aquarela com simulação de física e superpoderes em Three.js. | TypeScript, Three.js, WebGL | [Ver no GitHub](https://github.com/Ruanggd123/echo-world) |
+| **🏛️ Concurso Meruoca** | Plataforma de estudos, cronograma e simulados interativos com gerador de questões para o Concurso da Câmara de Meruoca-CE. | HTML5, CSS3, JavaScript, Python | [Ver no GitHub](https://github.com/Ruanggd123/concurso-meruoca) |
+| **⚖️ Concurso TJ-CE** | Plataforma de estudos com edital verticalizado, cronograma e materiais organizados para o Concurso do TJ-CE. | Python, Markdown, Scripts de Estudo | [Ver no GitHub](https://github.com/Ruanggd123/concurso-tj-ce) |
 | **🤖 JobHunter AI** | Motor autônomo de rastreamento de vagas tech e pontuação semântica ATS. | Python, Playwright, Flask, SQLite, LLMs | [Ver no GitHub](https://github.com/Ruanggd123) |
 | **🌐 Portfólio Pessoal** | Portfólio moderno, dark theme, responsivo e integrado à API pública do GitHub. | HTML5, CSS3, JavaScript, GitHub Pages | [Acessar Site](https://ruanggd123.github.io/portfolio/) |
 
