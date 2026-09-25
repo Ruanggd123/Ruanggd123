@@ -11,10 +11,10 @@
   </p>
 
   <p>
-    <a href="./Francisco_Ruan_Curriculo.pdf" target="_blank">
+    <a href="https://raw.githubusercontent.com/Ruanggd123/Ruanggd123/main/Francisco_Ruan_Curriculo.pdf" target="_blank">
       <img src="https://img.shields.io/badge/📄_Baixar_Currículo_PDF-1F883D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo PDF" />
     </a>
-    <a href="./CURRICULO.md">
+    <a href="https://github.com/Ruanggd123/Ruanggd123/blob/main/CURRICULO.md">
       <img src="https://img.shields.io/badge/📖_Ver_Currículo_Completo_(Markdown)-0969DA?style=for-the-badge&logo=markdown&logoColor=white" alt="Ver Currículo Markdown" />
     </a>
   </p>

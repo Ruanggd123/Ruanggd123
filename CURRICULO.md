@@ -7,7 +7,7 @@
 - **LinkedIn:** [linkedin.com/in/ruanggd123](https://www.linkedin.com/in/ruanggd123)
 - **GitHub:** [github.com/Ruanggd123](https://github.com/Ruanggd123)
 - **Currículo Lattes (CNPq):** [lattes.cnpq.br/4814436820360407](http://lattes.cnpq.br/4814436820360407)
-- **Versão em PDF:** [Baixar Francisco_Ruan_Curriculo.pdf](./Francisco_Ruan_Curriculo.pdf)
+- **Versão em PDF:** [Baixar Francisco_Ruan_Curriculo.pdf](https://raw.githubusercontent.com/Ruanggd123/Ruanggd123/main/Francisco_Ruan_Curriculo.pdf)
 
 ---
 
