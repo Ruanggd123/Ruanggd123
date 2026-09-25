@@ -107,6 +107,12 @@ Graduado em **Engenharia da Computação** pela **Universidade Federal do Ceará
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanggd123&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruanggd123&theme=tokyonight&hide_border=false" alt="Ofensiva de Contribuições do GitHub (Streak Stats)" />
+</div>
+
 ---
 
 <div align="center">
